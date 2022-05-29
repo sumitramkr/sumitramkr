@@ -1,8 +1,9 @@
 # Hey!! Great to see you here! <img src="hi.gif" width="30px">
 
-* 📖 Pursuing my Bachelor's in Computer Science and Engineering from [Indian Institute of Information Technology Vadodara](http://www.iiitvadodara.ac.in/). 
+* 🏢 Pursuing my Bachelor's in Computer Science and Engineering from [Indian Institute of Information Technology Vadodara](http://www.iiitvadodara.ac.in/). 
 
 * 💻 Tech enthusiast, problem solving & loves gadgets.
+
 * 💡 Always open to collaborating on projects and innovative ideas. 
 
 * 📚 Currently learning [Web3 Development](https://en.wikipedia.org/wiki/Web3).
@@ -11,9 +12,9 @@ Apart from coding, I am health concious & you will find me playing some sports o
 
 ---
 
-##  Tech Stack
+## 🛰 Tech Stack
 
-###  Languages
+### ⌨ Languages
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=bootstrap&logo=c%2B%2B&logoColor=white)&nbsp;
 
@@ -25,7 +26,7 @@ Apart from coding, I am health concious & you will find me playing some sports o
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
 
-###  Frameworks & Libraries
+### 🧩 Frameworks & Libraries
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
 
@@ -35,7 +36,7 @@ Apart from coding, I am health concious & you will find me playing some sports o
 
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express.js)&nbsp;
 
-### Databases
+### 🧾 Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
 
@@ -66,5 +67,6 @@ Apart from coding, I am health concious & you will find me playing some sports o
   </p>
 
 ---
+## 📊  Graph
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sumitramkr&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
