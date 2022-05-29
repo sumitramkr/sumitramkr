@@ -62,7 +62,7 @@ Apart from coding, I am health concious & you will find me playing some sports o
 
 ## 🔝 Most used languages
 
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitramkr&layout=compact&hide_border=true&theme=radical" />
+  <img align="center" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitramkr&layout=compact&hide_border=true&theme=radical" />
 
 ---
 
