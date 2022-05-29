@@ -1,13 +1,13 @@
 # Hey!! Great to see you here! <img src="/src/wave.gif" width="30px">
 
-* 📖 Pursuing my Bachelor's in Computer Science and Engineering from [Indian Institute of Information Technology VadodARA](http://www.iiitvadodara.ac.in/). 
+* 📖 Pursuing my Bachelor's in Computer Science and Engineering from [Indian Institute of Information Technology Vadodara](http://www.iiitvadodara.ac.in/). 
 
 * 💻 Tech enthusiast, problem solving & loves gadgets.
 * 💡 Always open to collaborating on projects and innovative ideas. 
 
 * 📚 Currently learning [Web3 Development](https://en.wikipedia.org/wiki/Web3).
 
-Apart from coding, i am a health freak & you will find me playing some sports or in gym. I love to spend time with my loved ones and friends. Sometimes, I do skecthing too!
+Apart from coding, I am health concious & you will find me playing some sports or in gym. I love to spend time with my loved ones and friends. Sometimes, I do skecthing too!
 
 ---
 
@@ -52,7 +52,11 @@ Apart from coding, i am a health freak & you will find me playing some sports or
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumitramkr&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumitramkr&show_icons=true&hide_border=true&theme=radical" /> </p>
+
+  </ br>
+
+  <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitramkr&hide_border=true&theme=radical" />
 </p>
 
