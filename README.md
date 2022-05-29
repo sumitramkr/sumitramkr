@@ -33,6 +33,8 @@ Apart from coding, i am a health freak & you will find me playing some sports or
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)&nbsp;
 
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express.js)&nbsp;
+
 
 ### Tools & Platforms
 
