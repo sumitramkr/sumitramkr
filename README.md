@@ -35,6 +35,9 @@ Apart from coding, i am a health freak & you will find me playing some sports or
 
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express.js)&nbsp;
 
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
 
 ### Tools & Platforms
 
