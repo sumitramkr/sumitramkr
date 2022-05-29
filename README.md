@@ -54,7 +54,7 @@ Apart from coding, I am health concious & you will find me playing some sports o
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumitramkr&show_icons=true&hide_border=true&theme=radical" /> </p>
 
-  </ br>
+  <br>
 
   <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitramkr&hide_border=true&theme=radical" />
