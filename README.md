@@ -22,9 +22,7 @@ Apart from coding, I am health concious & you will find me playing some sports o
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 
-![Solidity](https://img.shields.io/badge/Solidity-%3E%3D%?style=flat&logo&logoColor=61DAFB)&nbsp;
-
-https://img.shields.io/badge/solidity-%3E%3D%200.6.8-lightgrey
+![Solidity](https://img.shields.io/badge/Solidity-%20-lightgrey)&nbsp;
 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
 
