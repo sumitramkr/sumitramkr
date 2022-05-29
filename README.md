@@ -40,7 +40,7 @@ Apart from coding, I am health concious & you will find me playing some sports o
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
 
-### Tools & Platforms
+### 🛠 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)&nbsp;
 
