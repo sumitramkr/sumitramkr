@@ -15,7 +15,7 @@ Apart from coding, i am a health freak & you will find me playing some sports or
 
 ###  Languages
 
-![C++]https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B)&nbsp;
+![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B)&nbsp;
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
