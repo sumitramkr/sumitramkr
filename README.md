@@ -57,7 +57,6 @@ Apart from coding, I am health concious & you will find me playing some sports o
 
 <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitramkr&layout=compact&hide_border=true&theme=radical" />
 
----
 ## 📊  Graph
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sumitramkr&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
