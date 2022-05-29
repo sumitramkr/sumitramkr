@@ -36,7 +36,7 @@ Apart from coding, I am health concious & you will find me playing some sports o
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express.js)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express.js)
 
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
