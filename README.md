@@ -18,7 +18,7 @@ Apart from coding, I am health concious & you will find me playing some sports o
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=bootstrap&logo=c%2B%2B&logoColor=white)
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+[C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 
