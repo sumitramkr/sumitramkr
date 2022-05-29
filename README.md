@@ -46,19 +46,16 @@ Apart from coding, I am health concious & you will find me playing some sports o
 
 ## 📈 Stats
 
-
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumitramkr&show_icons=true&hide_border=true&theme=radical" />
 
   <br>
-
 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitramkr&hide_border=true&theme=radical" />
 
 
 ## 🔝 Most used languages
 
-  <p align="center"><img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitramkr&layout=compact&hide_border=true&theme=radical" />
-  </p>
+<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitramkr&layout=compact&hide_border=true&theme=radical" />
 
 ---
 ## 📊  Graph
