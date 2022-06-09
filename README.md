@@ -1,4 +1,4 @@
-# Hey! Great to see you here. <img src="hi.gif" width="30px">
+# Hey! Great to see you here. <img src="hi.gif" width="10px">
 
 * 🏢 Pursuing my Bachelor's in Computer Science and Engineering from [Indian Institute of Information Technology Vadodara](http://www.iiitvadodara.ac.in/). 
 
