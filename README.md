@@ -10,8 +10,6 @@
 
 Apart from coding, I am health concious & you will find me playing some sports or in gym. I love to spend time with my loved ones and friends. Sometimes, I do skecthing too!
 
----
-
 ## 🛰 Tech Stack
 
 ### ⌨ Languages
@@ -44,8 +42,6 @@ Apart from coding, I am health concious & you will find me playing some sports o
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
 
----
-
 ## 📈 Stats
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumitramkr&show_icons=true&hide_border=true&theme=radical" />
@@ -53,14 +49,11 @@ Apart from coding, I am health concious & you will find me playing some sports o
   <br>
 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitramkr&hide_border=true&theme=radical" />
-  
----
+ 
 
 ## 🔝 Most used languages
 
 <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitramkr&layout=compact&hide_border=true&theme=radical" />
-
----
 
 ## 📊  Graph
 
