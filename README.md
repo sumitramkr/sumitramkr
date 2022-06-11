@@ -26,7 +26,7 @@ Apart from coding, I am health concious & you will find me playing some sports o
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express.js)
+![Express.js]([https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express.js](https://img.shields.io/badge/Express-e6e6e6?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAABlUlEQVRIie3UMUiWURQG4OdXC8vAGlVoFIKwxHIKAgexLCgIhyChlgx0sIYgCKKkpRpyMzcHSZCGimgIHEoiigwaMspFJEVxaKhoa7jfV9eP2%2F%2F%2Fa%2BQLd7gv577ncM57Lpv473AUD7GMdTzDGZSimEaMo7WMTi2u41BObMUEZtCDXdiOw3ianfpI4BI%2BZ8lSGMm0anNiFGOoSQSXsorvF7gHmErEd%2BMLmnJiL%2Bax5S%2FVyKpfxIGIa8QnnI%2B45ky8K358B8NlxHPcwM0Ct0%2BYVZvQjhlcKT58ic4qEhzHkwR%2FDh9wG48V2lzCd7zFjwoJduKnyBkRHqEXLYIDf6NOcNAtLFVIAN8S3B4cxDv04W4xYB7tVYinsA3v0Y%2FdWLHRCAj2G6hC7BguF7hxYX9ynMKCwn6cwBsbtzWF5zgZ3U%2FjI3Ykkk7HRAkvcLWM%2BAW88schrViTbm2D4KrBmGzGa0wKA6sRht%2BJe0KfW7LYesxhqExB%2B%2FEVHTFZh7PCB7eanVlcFP6lHEeEv6gSenGtirhN%2FOv4BaPlRlqZ7a8qAAAAAElFTkSuQmCC&logoColor=black))
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
