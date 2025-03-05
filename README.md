@@ -1,12 +1,10 @@
 # Hey! Great to see you here. <img src="hi.gif" height="30px"> 
 
-* 🏢 Pursuing my Bachelor's in Computer Science and Engineering from [Indian Institute of Information Technology Vadodara](http://www.iiitvadodara.ac.in/). 
+* 🏢 Graduated in Bachelor's in Computer Science and Engineering from [Indian Institute of Information Technology Vadodara](http://www.iiitvadodara.ac.in/). 
 
-* 💻 Tech enthusiast, problem solving & loves gadgets.
+* 💻 Tech enthusiast, problem solving & love gadgets.
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
-
-* 📚 Currently learning [Web3 Development](https://en.wikipedia.org/wiki/Web3).
 
 Apart from coding, I am health concious & you will find me playing some sports or in gym. I love to spend time with my loved ones and friends. Sometimes, I do skecthing too!
 
